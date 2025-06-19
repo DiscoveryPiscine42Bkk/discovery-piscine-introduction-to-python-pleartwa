@@ -1,0 +1,8 @@
+# ♟ Rush00 - Checkmate
+
+Mini-project from Python Discovery Piscine @ 42Bangkok
+
+## 🔧 How to run
+```bash
+python3 main.py             # ใช้บอร์ดตัวอย่าง
+python3 main.py test_cases/valid1.chess test_cases/invalid1.chess
